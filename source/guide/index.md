@@ -68,11 +68,12 @@ The side navigation bars offer access to the full functionality of the game.  Th
 
 ##### Overview
 
-This page tells you how much you have of your gold coins and your resources. It also has an area for a message from your leader.
+This page tells you how much you have of your gold coins and your resources. It tells you how much population have, and also morale. It also has an area for a message from your leader. This area will also show any recent reports,  like an aid shippment, attack, operation,  or an eship that landed.
+This area will also show Galactic News, which is good or bad news for every player in the galaxy. 
 
 ##### Council
 
-This page tells you your production of cash and resources. It also tells you how many of what different buildings you have and units. Below that is the queue which tells you what is building.
+This page tells you your production of cash and resources. It also tells you how many of what different buildings you have and units. Below that is the queue which tells you what is building. This is also an area you can demolish all of one building type. In addition you can cancel buildings and fleet you have building. 
 
 ##### Galaxy Map
 
@@ -84,7 +85,7 @@ This is a list of all your planets. You can sort them by coordinates, overbuilt,
 
 ##### Fleets
 
-It will show you how much fleet you have at home. Below that it will tell you if you have fleet en route to another planet or if they are hovering and ready for attack.
+It will show you how much fleet you have at home. Below that it will tell you if you have fleet en route to another planet or if they are hovering and ready for attack. This also includes exploration ships heading to new planets.
 
 ##### Galactic Market
 
@@ -92,7 +93,7 @@ In a galaxy that allows this feature you can buy goods that you need or sell the
 
 ##### Family
 
-This page will show you who your family members are. At the top of the page are different links. Here you can vote for a leader or you can send aid or even see how much is in the Defense fund and see where your defense stations are. The Family link also has 2 other links on the side for quick access to the News and Aid.
+This page will show you who your family members are. At the top of the page are different links. Here you can vote for a leader or you can send aid or even see how much is in the Defense fund and see where your defense stations are. The Family link also has 2 other links on the side for quick access to the News and Aid. Family chat is also included in this area, if your leader set a chat.  Leaders show in pink, yourself shows as blue.
 
 ##### Diplomacy
 
@@ -100,7 +101,7 @@ Here you will see if there are any NAPs (Non-Aggression Pacts) and what kind, if
 
 ##### Messages
 
-You can send and will receive messages here.
+You can send and will receive messages here. You also have an outbox to see old messages you sent. Planet cords sent here are also clickable.
 
 ##### Quick Attack
 
@@ -108,15 +109,15 @@ Sending an attack from this page you will need the coordinates. After you click 
 
 ##### Covert Operations
 
-This is the place where you can do your agent ops. It tells you the amount it will cost, and the amount of agents and operations that are left.
+This is the place where you can do your agent ops. It tells you the amount it will cost, and the amount of agents and operations that are left. When you pick which operation want to use, it then shows you the morale cost to do said op.
 
 ##### Magic
 
-This page is where you do your spells. It tells you how much it will cost in octarine, how many wizards you have and how many spells are left.
+This page is where you do your spells. It tells you how much it will cost in octarine, how many wizards you have and how many spells are left. When you pick which spell you want to use, it then shows you the morale cost to do said spell.
 
 ##### Research
 
-In this room is your research into 5 difference sciences. You have military, welfare, economy, construction and resources. You can change these settings to what you want but you can never go over 100%.
+In this room is your research into 5 difference sciences. You have military, welfare, economy, construction and resources. You can change these settings to what you want but it must equal 100%.
 
 ##### Personal Log
 
@@ -150,7 +151,7 @@ Provided that you are at least 50% built on your available planet space, you wil
 
 ### Attacking
 
-If there are no unclaimed planets avaialable, you can take planets from other players by buildng a fleet and attacking the planet you'd like to take.  In order to win the planet, you must win the final phase (ground fight).
+If there are no unclaimed planets avaialable, or if exploration cost to much for you,you can take planets from other players by buildng a fleet and attacking the planet you'd like to take.  In order to win the planet, you must win the final phase (ground fight).
 
 ## Contributing to this document
 
