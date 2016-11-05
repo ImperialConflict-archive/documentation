@@ -156,16 +156,16 @@ If there are no unclaimed planets avaialable, you can take planets from other pl
 
 This document is a work in progress, and is intended to replace 2 older verions of the guide that are very outdated.  For reference, these old guide documents are linked below:
 
-* [https://imperialconflict.com/wiki/index.php?title=Guide]()
-* [https://imperialconflict.com/guide/]()
+* [https://imperialconflict.com/wiki/index.php?title=Guide](https://imperialconflict.com/wiki/index.php?title=Guide)
+* [https://imperialconflict.com/guide/](https://imperialconflict.com/guide/)
 
 The source for this current document is available on GitHub:
 
-* [https://github.com/ImperialConflict/documentation/tree/master/source/guide]()
+* [https://github.com/ImperialConflict/documentation/tree/master/source/guide](https://github.com/ImperialConflict/documentation/tree/master/source/guide)
 
 If you would like to contribute, but are unfamiliar with how GitHub works, feel free to find `I_like_pie` in the Discord chat for further details.
 
-* [https://discord.gg/yVZjc4M]()
+* [https://discord.gg/yVZjc4M](https://discord.gg/yVZjc4M)
 
 ### Rewarding your Time and Effort
 
