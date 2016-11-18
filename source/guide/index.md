@@ -91,13 +91,15 @@ It will show you how many units of each type you have in your main fleet. Below 
 
 In a galaxy that allows this feature you can buy resources that you need or sell them for gold. Sometimes there is a market strike where the market is shut down for a period of time. Bids to buy resources will remain on the market until they are filled by another player selling the desired amount of resources. Gold stored in bids on the market will not decay in the same way bureaucracy decays 0.5% of saved gold. Because of this, it is possible to save large amounts of gold on the market in bids that will not be filled and cancel the order later so that losses from the 10% cancellation fee. Resources stored in the market as open bids still decay at the same 0.5% as resources saved normally. 
 
+The market functions similarly to a stock market, so large gains are possible by buying low and selling high if there are enough active players using it. 
+
 ##### Family
 
 This page will show you who your family members are. At the top of the page are different links. Here you can vote for a leader or you can send aid or even see how much is in the Defense fund and see where your defense stations are. The Family link also has 2 other links on the side for quick access to the News and Aid. Family chat is also included in this area, if your leader set a chat.  Leaders show in pink, your own name appears blue.
 
 ##### Diplomacy
 
-Here you will see if there are any NAPs (Non-Aggression Pacts) and how long they will last, if war has been declared and who your allies are.
+Here you will see if there are any NAPs (Non-Aggression Pacts) and how long they will last, if war has been declared and who your allies are. Leaders and vice leaders are able to declare/cancel NAPs and alliances from this page.
 
 ##### Messages
 
@@ -117,7 +119,7 @@ This page is where you do your spells. It tells you how much it will cost in oct
 
 ##### Research
 
-In this room is your research into 5 difference sciences. You have military, welfare, economy, construction and resources. You can change these settings to what you want but it must equal 100%. These settings will direct future research into the desired areas. Existing research centers contribute research points every hour and you also have the option to fund research with gold. Gold in the research fund will be consumed at 10% every hour. The consumed gold is converted to research points. 
+In this room is your research into 5 difference sciences. You have military, welfare, economy, construction and resources. You can change these settings to what you want but it must equal 100%. These settings will direct future research into the desired areas. Existing research centers contribute research points every hour and you also have the option to fund research with gold. Gold in the research fund will be consumed at 10% every hour. The consumed gold is converted to research points. Your empire's race affects how many research points these methods produce via the research bonus (scales from -30% to 50%).
 
 ##### Personal Log
 
@@ -125,15 +127,15 @@ You can make notes or keep information here for your own personal reference.
 
 ##### Rankings
 
-This link will take you to the ranking page to show you where your family and your empires are compared to the other families in the galaxy. There are 3 different ranking systems: Score, Size & Networth.
+This link will take you to the ranking page to show you where your family and your empires are compared to the other families in the galaxy. There are 3 different ranking systems: Score, Size & Networth. Size ranks solely on number of planets, networth ranks solely on networth, and score ranks based on a combined size/networth taking the entire history of the round into account. Players generally take size ranking at the conclusion of the round to be by far the most important ranking.
 
 ##### Family Forum
 
-This link will take you directly to your family forum. No other family can see it unless you have allies.
+This link will take you directly to your family forum. No other family can see it unless you have allies. 
 
 
 
-## Your Family and Home System
+## Your Family and Player Roles
 
 After you decide which galaxy you will want to join, you have your own planet in a system called your home system.  In this system are other empires and their home planets.  These empires are your family members, and this is your family.  This is your team.
 
@@ -141,13 +143,23 @@ You can view your family's page by clicking the "Family" link on the left sideba
 
 One of the first things you want to do is post in your family's forum to introduce yourself.  A lot of good planning happens here and it's a great place to offer help and/or ask questions.
 
+Due to race bonuses lying in different areas of expertise, players in a family will divide themselves into different roles to cover all of the family's needs as efficiently as possible. The three main roles that the vast majority of players in a galaxy will fall into are bankers, resourcers, and attackers. 
+
+Bankers focus on making gold and nothing else. They provide all the income for the entire family, which they send in aid shipments to non-banker players. The two ways to do this are by building cash factories or by building living quarters to increase population. Each style has benefits and drawbacks. Banking with cash factories is generally seen as less complex, although it still provides freedom in plenty of options, such as the ratios of cash factories, tax offices, and research centers, to optimize income. Banking with living quarters (pop banking) allows for a much larger attainable income, but takes a long time to achieve. It will make your networth very high, making you a prime target for attacks by other families. It also relies heavily on resourcers in your family to send enough food to feed you burgeoning population. 
+
+Resourcers in a family generally play as a race with access to high research bonuses and high attacking bonuses and/or many spells and covert operations. They will not be the main attacker of the family but are usually fully capable of making successful attacks. These players will prioritize building mining facilities, hydroponic farms, occult centers, and refinement stations in order to produce large amounts of iron, food, octarine, and endurium, respectively. Working to get a high research bonus in the resource category is what gives resourcers an advantage to produce more than other players in the family. 
+
+Attackers (otherwise known as hardcore or hc attackers) will keep their networth as low as possible while maintaining a fleet large enough to fulfill the offensive needs of the family. Many times these players will only build research centers and lasers as buildings in their empire. This is a necessity since the games uses morale to limit how often players are allowed to engage attacks. This is largely based on individual networth so attackers want their networth to be low enough so they can have more morale. Attackers will often go long periods of time without building anything when their family is at peace, but they carry the full responsibility of the family when war breaks out. 
+
 ## Growing your empire
 
-You will quickly outgrow your home planet, and need more space to build on.  The easiest way to do this is to explore an unclaimed planet.
+You will quickly outgrow your home planet, and need more space to build on.  The easiest way to do this is to explore an unclaimed planet. You are allowed to build more buildings than the listed maximum space. However, buildings built past this limit are subjected to a cost penalty that scales with each additional building put under construction. If a planet has twice as many buildings as that planet's max space, then the next building will cost twice as much as the base cost of that building. 
+
+Your empire's population will increase according to normal exponential growth up to the max population on each planet. This growth is equal to "5% x pop growth race bonus" each hour. 
 
 ### Exploration
 
-Provided that you are at least 50% built on your available planet space, you will be able to send exploration ships to unclaimed planets.
+Provided that you are at least 50% built on your available planet space, you will be able to send exploration ships to unclaimed planets. Each planet does not need to be halfway built, only that the total number of buildings in your empire must be 50% of the total max space available on planets under your control. Sending an exploration ship gets more expensive according to how many planets you control and how far away the planet you want to explore is from the nearest planet you control. There is a limit of 8 exploration ships that you are allowed to construct in any 24 hour period. 
 
 ### Attacking
 
