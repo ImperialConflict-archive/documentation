@@ -1,16 +1,16 @@
 ## 1. Global Rules
 
-By registering a game account, you agree to the rules described on this page.  These rules are subject to change without notice.
+By logging onto your game account, you agree to the rules described on this page.  These rules are subject to change without notice.
 
 ### 1.1 Enforcement
 
-1. The Imperial Conflict team reserves the right to take any steps it deems required to correct rule violations. This includes modification or deletion of your account without warning.
+1. The Imperial Conflict team reserves the right to take any steps, within its domain, it deems required to correct rule violations. This includes modification or deletion of your account without warning.
 
-2. The decisions of the Imperial Conflict team are final.  They may be discussed privately by emailing support@imperialconlict.com, but a discussion does not imply a negotiation.
+2. Details regarding specific enforcement decisions may be discussed privately by the affected account owner emailing support@imperialconlict.com.
 
-3. Any information on these actions is private and will be withheld from all outside parties.
+3. Any information on specific enforcement decisions is private and will be not be disclosed by the Imperail Conflict team to any outside parties.
 
-4. The Imperial Conflict team reserves the right to access all information entered into the game through your game account for investigative purposes.
+4. The Imperial Conflict team reserves the right to access all information entered into the game through your game account to investigate rule violations.
 
 5. The Imperial Conflict team reserves the right to edit or delete any messages that are considered in violation of the rules.
 
@@ -24,9 +24,9 @@ The following applies to in-game messaging, forums, and chat.
 
 1. Do not harrass other players.  This includes but is not limited to: insulting, threatening, mocking, patronizing, causing distress, and/or drawing unwanted attention to another player.
 
-2. Do not distribute or discuss personal or private information about other players without their consent.  This includes real life information as well as private information about other players' empires.
+2. Do not distribute or discuss personal or private information about other players without their consent.  This includes real life information as well as private information about other players' empires, with the exception of sharing information within your own family (team).
 
-3. Do not make public accusations of rule breaking and do not publicly discuss active blocks.  Issues and questions regarding rule breaking and blocks should be discussed privately by sending an email to support@imperialconflict.com.
+3. Do not post on the site or in that chat to make accusations of rule breaking or to discuss blocks.  Issues and questions regarding rule breaking and blocks should be discussed privately by sending an email to support@imperialconflict.com.
 
 4. Do not discuss vulgar or sexually explicit topics.  This includes both clear and implied language, images, or links to websites with such content.
 
