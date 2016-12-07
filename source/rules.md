@@ -1,7 +1,3 @@
-# Rules - Imperial Conflict
-
-[TOC]
-
 ## 1. Global Rules
 
 By registering a game account, you agree to the rules described on this page.  These rules are subject to change without notice.
