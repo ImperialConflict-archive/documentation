@@ -1,7 +1,3 @@
-# Guide - Imperial Conflict
-
-[TOC]
-
 ## Welcome!
 
 Welcome to the Imperial Conflict guide.  We hope that it will help you understand the game and build your empire.
