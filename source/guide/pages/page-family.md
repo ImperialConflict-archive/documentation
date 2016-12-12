@@ -1,0 +1,3 @@
+# Page: Family
+
+This page will show you who your family members are. At the top of the page are different links. Here you can vote for a leader or you can send aid or even see how much is in the Defense fund and see where your defense stations are. The Family link also has 2 other links on the side for quick access to the News and Aid. Family chat is also included in this area, if your leader set a chat.  Leaders show in pink, your own name appears blue.

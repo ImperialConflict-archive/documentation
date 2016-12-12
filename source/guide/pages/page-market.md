@@ -1,0 +1,5 @@
+# Page: Galactic Market
+
+In a galaxy that allows this feature you can buy resources that you need or sell them for gold. Sometimes there is a market strike where the market is shut down for a period of time. Bids to buy resources will remain on the market until they are filled by another player selling the desired amount of resources. Gold stored in bids on the market will not decay in the same way bureaucracy decays 0.5% of saved gold. Because of this, it is possible to save large amounts of gold on the market in bids that will not be filled and cancel the order later so that losses from the 10% cancellation fee. Resources stored in the market as open bids still decay at the same 0.5% as resources saved normally. 
+
+The market functions similarly to a stock market, so large gains are possible by buying low and selling high if there are enough active players using it. 

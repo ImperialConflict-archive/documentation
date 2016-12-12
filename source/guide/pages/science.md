@@ -1,0 +1,3 @@
+# Research
+
+In this room is your research into 5 difference sciences. You have military, welfare, economy, construction and resources. You can change these settings to what you want but it must equal 100%. These settings will direct future research into the desired areas. Existing research centers contribute research points every hour and you also have the option to fund research with gold. Gold in the research fund will be consumed at 10% every hour. The consumed gold is converted to research points. Your empire's race affects how many research points these methods produce via the research bonus (scales from -30% to 50%).
