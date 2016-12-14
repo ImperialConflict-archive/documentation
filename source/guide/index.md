@@ -30,7 +30,6 @@ Help is much appreciated!
   * [Council](/docs/guide.php?page=council)
   * [Create an Empire](/docs/guide.php?page=create-an-empire)
 ### E
-  * [Empire (Page)](/docs/guide.php?page=empire-page)
   * [Exploration](/docs/guide.php?page=exploration)
 ### F
   * [Family](/docs/guide.php?page=family)
@@ -40,12 +39,14 @@ Help is much appreciated!
   * [Log](/docs/guide.php?page=log)
 ### M
   * [Map](/docs/guide.php?page=map)
+### N
+  * [Nav: Empire](/docs/guide.php?page=nav-empire)
+  * [Nav: Family](/docs/guide.php?page=nav-family)
+  * [Nav: Fleets](/docs/guide.php?page=nav-fleets)
+  * [Nav: Foreign Relations](/docs/guide.php?page=nav-foreign-relations)
+  * [Nav: market](/docs/guide.php?page=nav-market)
+  * [Nav: Planets](/docs/guide.php?page=nav-planets)
 ### P
-  * [Page: Family](/docs/guide.php?page=page-family)
-  * [Page: Fleets](/docs/guide.php?page=page-fleets)
-  * [Page: Foreign Relations](/docs/guide.php?page=page-foreign-relations)
-  * [Page: market](/docs/guide.php?page=page-market)
-  * [Page: Planets](/docs/guide.php?page=page-planets)
   * [Player Roles](/docs/guide.php?page=player-roles)
 ### R
   * [Rankings](/docs/guide.php?page=rankings)
