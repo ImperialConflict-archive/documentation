@@ -1,3 +1,3 @@
 # Map
 
-It will take you to the outside world to the galaxy. Here you can explore for new planets and also attack. At the top of the map sidebar is a toggle switch that will take you back to the navigator sidebar.
+The Map will show you a view of the galaxy you are playing in. The initial view shows you all of the systems, and clicking on one will show you the planets within.
