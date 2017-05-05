@@ -2,7 +2,7 @@
 
 ## Summary
 
-Attacking a planet is one of the two ways to expand your empire; the other being [exploring](/docs/guide.php?page=exploration).
+Attacking a planet is one of the two ways to expand your empire; the other being [exploring](/docs/guide.php?page=exploring).
 
 ## Viewing a Planet via the Map
 
@@ -71,3 +71,8 @@ If the attacker is successful, one of the following will happen:
 * If the defender has a networth of 70% or more of the attacker, the attacker will take control of the planet with all buildings intact.
 * If the defender has a networth of 35%-70% of the attacker, the attacker will take control of the planet but all of the buildings will have been destroyed.
 * If the defender has a networth under 35% of the attacker, the attack will NOT take control of the planet.  Rather, the planet will become uninhabited and avialable for exploration by any player.
+
+## See Also
+
+* [Round Phases](/docs/guide.php?page=round-phases)
+* [Exploring](/docs/guide.php?page=exploring)
