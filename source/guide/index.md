@@ -12,6 +12,9 @@ This guide is just one of your options to get help with the game.  Feel free to 
 * [The Questions Forum](/forum/viewforum.php?id=193)
 * [The Strategy Forum](/forum/viewforum.php?id=186)
 * [Our Discord Chat](https://discordapp.com/invite/yVZjc4M)
+* [The FAQ](https://imperialconflict.com/faq.php)
+* [The Wiki](https://imperialconflict.com/wiki/)
+* [The Old Guide](https://imperialconflict.com/guide/)
 
 ## Contributing to this Guide
 
