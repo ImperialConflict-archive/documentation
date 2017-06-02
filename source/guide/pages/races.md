@@ -27,9 +27,9 @@ The descrptions below are only a summary.  Please see their specific race pages 
 ## See Also
 
 * [Creating an Empire](/docs/guide.php?page=creating-an-empire)
-* [Partaxian](/v2-view_race.php?id=1)
-* [Wardancers](/v2-view_race.php?id=2)
-* [Quantam](/v2-view_race.php?id=3)
-* [Camaar](/v2-view_race.php?id=4)
-* [Revalons](/v2-view_race.php?id=5)
+* [Partaxian](/view_race.php?id=1)
+* [Wardancers](/view_race.php?id=2)
+* [Quantam](/view_race.php?id=3)
+* [Camaar](/view_race.php?id=4)
+* [Revalons](/view_race.php?id=5)
 * [Custom Races](/docs/guide.php?page=custom-races)
